@@ -1,0 +1,24 @@
+{
+  "emp": [
+    {
+      "fname": "g",
+      "lname": "4",
+      "id": 1
+    },
+    {
+      "fname": "guna",
+      "lname": "seelan",
+      "id": 2
+    },
+    {
+      "fname": "mohan",
+      "lname": "pangu",
+      "id": 3
+    },
+    {
+      "fname": "ramesh",
+      "lname": "pangu",
+      "id": 4
+    }
+  ]
+}
