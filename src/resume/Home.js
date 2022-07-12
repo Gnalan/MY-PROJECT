@@ -14,7 +14,7 @@ function Home() {
                     <div className={isDarkMode?'mydark sticky-top':"myColor sticky-top"}>
                         <ul className={isDarkMode?'nav myNav-dark':'nav myNav'} id='navigation'>
                             <li className='nav-item'><Link to='/' className='nav-link active navbar-text link'>Home</Link></li>
-                            <li className='nav-item'><a href='https://github.com/Mr-hollowman' className='nav-link active navbar-text link'>Project</a></li>
+                            <li className='nav-item'><a href='https://github.com/Gnalan' className='nav-link active navbar-text link'>Project</a></li>
                             <li className='nav-item'><a href='#footer' className='nav-link active navbar-text link'>Contact</a></li>
                             <li className='nav-item nav-link'><DarkModeToggle onChange={setIsDarkMode} 
                                                 checked={isDarkMode}
@@ -23,7 +23,7 @@ function Home() {
                 </ul>
                     </div>
             <div className={isDarkMode?"cover text-center mydark":'myColor cover text-center'} id='heading'>
-                <h1 className='myName'>Hai<span style={{'fontSize':30}}>&#128075;</span>, This is Selvaguru</h1>
+                <h1 className='myName'>Hai<span style={{'fontSize':30}}>&#128075;</span>, This is Gunaseelan</h1>
                 <p>Software Developer </p> 
 
             </div>
@@ -54,8 +54,8 @@ function Home() {
                         <br />
                         <ul className='skills'>
                             <li>Front end Languages - HTML, CSS, JavaScript, ReactJs</li>
-                            <li>Back end Languages - Python, NodeJS</li>
-                            <li>Data Base - MySql, Firebase</li>
+                            <li>Back end Languages - Python</li>
+                            <li>Data Base - Oracle Sql</li>
                         </ul>
                     </div>
                     <div className='col-sm-6'>
@@ -63,7 +63,7 @@ function Home() {
                         <br />
                         <ul className='skills'>
                             <li>I done ReactJS intern in Azure soft tech solutions</li>
-                            <li>I done Python intern in WingWizard</li>
+                            <li>I done Python certification in Alpha web academy</li>
                         </ul>
                     </div>
                     <br />
@@ -120,18 +120,8 @@ function Home() {
                                     <td><a href={'https://github.com/Mr-hollowman/project-management'}>Project-management</a></td>
                                     <td><a href='https://mr-hollowman.web.app/signup'>Live run</a></td>
                                 </tr>
-                                <tr>
-                                    <td>Dev Challanges</td>
-                                    <td>HTML, CSS, NodeJS, ReactJS</td>
-                                    <td><a href={'https://github.com/Mr-hollowman/image-uploader'}>Image-Uploader</a></td>
-                                    <td><a href='https://mr-hollowman.github.io/image-uploader/'>Live run</a></td>
-                                </tr>
-                                <tr>
-                                    <td>Dev Challanges</td>
-                                    <td>HTML, CSS, NodeJS, ReactJS</td>
-                                    <td><a href={'https://github.com/Mr-hollowman/myunsplash.git'}>My unsplash</a></td>
-                                    <td><a href='https://selva-unsplash.web.app/'>Live run</a></td>
-                                </tr>
+                               
+                                
                             </tbody>
                         </table>
                     </div>
@@ -149,28 +139,28 @@ function Home() {
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>Master Of Computer Applications</td>
-                                    <td>Kalasalingam Institute Of Research And Education</td>
-                                    <td>2022</td>
-                                    <td>87%</td>
+                                    <td>M.SC Maths</td>
+                                    <td>Kamaraj Government Arts College</td>
+                                    <td>2020</td>
+                                    <td>83%</td>
                                 </tr>
                                 <tr>
-                                    <td>B.A English</td>
-                                    <td>Devanga Arts College</td>
-                                    <td>2019</td>
-                                    <td>49%</td>
+                                    <td>B.SC Maths</td>
+                                    <td>Raju's College,Rajapalayam</td>
+                                    <td>2017</td>
+                                    <td>74%</td>
                                 </tr>
                                 <tr>
                                     <td>SSC</td>
-                                    <td>S.B.K Higher Secondary School</td>
-                                    <td>2016</td>
-                                    <td>67%</td>
+                                    <td>S.S.Hr.Sec.School,Sivagiri</td>
+                                    <td>2014</td>
+                                    <td>74%</td>
                                 </tr>
                                 <tr>
                                     <td>SSLC</td>
-                                    <td>S.B.K Higher Secondary School</td>
-                                    <td>2014</td>
-                                    <td>87%</td>
+                                    <td>S.S.Hr.Sec.School,Sivagiri</td>
+                                    <td>2012</td>
+                                    <td>74%</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -185,20 +175,20 @@ function Home() {
                         ><span className='tooltip'>Github</span><i className={isDarkMode? 'fa fa-github dark-git':'fa fa-github'}></i></a>
                     </li> */}
                     <li className='nav-item'>
-                        <a href='https://www.instagram.com/mr.hollow_man_'
+                        <a href='https://www.instagram.com/gunalan_4'
                         ><i className='fa fa-instagram'></i></a>
                     </li>
                     <li className='nav-item'>
-                        <a href='https://www.linkedin.com/in/selva-guru-4b5797192'
+                        <a href='https://www.linkedin.com/in/gunaseelan-m-5a7022229'
                         ><i className='fa fa-linkedin'></i></a>
-                    </li>
-                    <li className='nav-item'>
-                        <a href='https://twitter.com/MrHollowMan1'
-                        ><i className='fa fa-twitter'></i></a>
                     </li>
                     <li className='nav-item'>
                         <a href='https://wa.me/918610268591'
                         ><i className='fa fa-whatsapp'></i></a>
+                    </li>
+                    <li className='nav-item'>
+                        <a href='https://www.youtube.com/channel/UCJtBYPWAXeZfInoOPOcgObw'
+                        ><i className="fa fa-youtube"></i></a>
                     </li>
                     <li className='nav-item'>
                         <a href='mailto:selvamani825@gmail.com'
@@ -208,7 +198,7 @@ function Home() {
 
             </div>
             <div className='text-center' style={{padding:"30px"}}>
-                copywrite ©  selva 2022
+                copywrite ©guna4g 2022
             </div>
         </div>
         </div>

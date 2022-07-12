@@ -7,19 +7,17 @@ export default function ProfessionalSkill() {
       <div className='d-flex justify-content-between'>
         <div className='progresses' >
             <label>HTML</label>
-            <ProgressBar animated now={75} />
+            <ProgressBar animated now={60} />
             <label>CSS</label>
-            <ProgressBar animated now={65} />
+            <ProgressBar animated now={60} />
             <label>JavaScript</label>
-            <ProgressBar animated now={70} />
+            <ProgressBar animated now={55} />
         </div>
         <div className='progresses2'>
-            <label>NodeJS</label>
-            <ProgressBar animated now={50} />
             <label>ReactJs</label>
-            <ProgressBar animated now={65} />
-            <label>Firebase</label>
-            <ProgressBar animated now={40} />
+            <ProgressBar animated now={60} />
+            <label>Python</label>
+            <ProgressBar animated now={60} />
         </div>
     </div>
     </div>

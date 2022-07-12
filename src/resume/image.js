@@ -1,5 +1,5 @@
 import React from 'react'
-import Myphoto from '../logo.svg';
+import Myphoto from '../gunapict.jpg';
 import '../index.css'
 
 export default function Image() {
