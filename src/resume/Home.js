@@ -80,46 +80,29 @@ function Home() {
                                     <th>Project domain</th>
                                     <th>Programming languages</th>
                                     <th>Git link</th>
-                                    <th>Project link</th>
+                                    
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>Fullstack web Development</td>
-                                    <td>HTML, CSS, NodeJS, ReactJS</td>
-                                    <td><a href={'https://github.com/Mr-hollowman/project'}>Music player</a></td>
-                                    <td><a href={'https://mr-hollowman.github.io/project'}>Live run</a></td>
+                                    <td>Front End Web Development</td>
+                                    <td>HTML, CSS, JavaScript,Bootstrap, ReactJS</td>
+                                    <td><a href={'https://github.com/Gnalan/MY-PROJECT'}>Resume Application</a></td>
+
                                 </tr>
                                 <tr>
-                                    <td>web Development</td>
-                                    <td>HTML, CSS, NodeJS, ReactJS</td>
-                                    <td><a href={'https://github.com/Mr-hollowman/pagination'}>Simple Pagination</a></td>
-                                    <td><a href={'https://codesandbox.io/s/github/Mr-hollowman/pagination'}>Live run</a></td>
+                                    <td>Front End Web Development</td>
+                                    <td>HTML, CSS, JavaScript, ReactJS</td>
+                                    <td><a href={'https://github.com/Gnalan/MY-PROJECT'}>Todolist Application</a></td>
+                                    
                                 </tr>
                                 <tr>
-                                    <td>web Development</td>
-                                    <td>HTML, CSS, NodeJS, ReactJS</td>
-                                    <td><a href={'www.github.com/Mr-Hollowman'}>My resume</a></td>
-                                    <td><a href='https://mr-hollowman.github.io/Resume'>Live run</a></td>
+                                    <td>Front End Web Development</td>
+                                    <td>HTML, CSS, JavaScript, ReactJS</td>
+                                    <td><a href={'https://github.com/Gnalan/MY-PROJECT'}>Form Validation</a></td>
+                                    
                                 </tr>
-                                <tr>
-                                    <td>web Development</td>
-                                    <td>HTML, CSS, NodeJS, ReactJS</td>
-                                    <td><a href={'https://github.com/Mr-hollowman/task-management'}>Task-management</a></td>
-                                    <td><a href='https://selva-f289a.web.app/login'>Live run</a></td>
-                                </tr>
-                                <tr>
-                                    <td>web Development</td>
-                                    <td>HTML, CSS, NodeJS, ReactJS</td>
-                                    <td><a href={'https://github.com/Mr-hollowman/firstBlog'}>Simple Blog Website</a></td>
-                                    <td><a href='https://mr-hollowman.github.io/firstBlog/'>Live run</a></td>
-                                </tr>
-                                <tr>
-                                    <td>Fullstack web Development</td>
-                                    <td>HTML, CSS, NodeJS, ReactJS</td>
-                                    <td><a href={'https://github.com/Mr-hollowman/project-management'}>Project-management</a></td>
-                                    <td><a href='https://mr-hollowman.web.app/signup'>Live run</a></td>
-                                </tr>
+                                
                                
                                 
                             </tbody>

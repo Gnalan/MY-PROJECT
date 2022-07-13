@@ -1,5 +1,5 @@
 import React from 'react'
-import Myphoto from '../gunapict.jpg';
+import Myphoto from '../gunapic.jpg';
 import '../index.css'
 
 export default function Image() {

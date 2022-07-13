@@ -17,7 +17,7 @@ export default function ProfessionalSkill() {
             <label>ReactJs</label>
             <ProgressBar animated now={60} />
             <label>Python</label>
-            <ProgressBar animated now={60} />
+            <ProgressBar animated now={50} />
         </div>
     </div>
     </div>
